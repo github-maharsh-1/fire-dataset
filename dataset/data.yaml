@@ -1,0 +1,15 @@
+names:
+- fire
+- other
+- smoke
+nc: 3
+roboflow:
+  workspace: sejong-x037c
+  project: fire-smoke-f1fv1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sejong-x037c/fire-smoke-f1fv1/dataset/1
+
+train: /content/drive/MyDrive/datasets/fire_data/train/images
+val: /content/drive/MyDrive/datasets/fire_data/valid/images
+test: /content/drive/MyDrive/datasets/fire_data/test/images
